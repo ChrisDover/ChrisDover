@@ -6,8 +6,9 @@ Building the trust layer for agent commerce.
 - **Also:** [Silo](https://github.com/ChrisDover/Silo) — session-locked AI coding terminal, one project per shell.
 - **Also:** [Outlive Engine](https://github.com/ChrisDover/outlive-engine) — open-source longevity protocol platform.
 - **Operating:** [Pollinate Research](https://pollinateresearch.com) — agent-facing intelligence and the x402 trust stack.
-- **Background:** 25 years coding · quant trading · ex-Marines / Triple Canopy · CPP · Spanish.
+- **Shipping:** [Pollinate Trading](https://pollinatetrading.com) — solo-built fintech at $250K+ ARR since 2022.
+- **Background:** 500 Startups founder with exit (Geniusly, 2014) · 25 years coding · quant trading · ex-Marines / Triple Canopy · CPP · Spanish.
 
 Open to hard problems at the intersection of AI agents, crypto, and markets. DMs open.
 
-`chrisdmacro.base.eth` · [chrisdover@gmail.com](mailto:chrisdover@gmail.com)
+`chrisdmacro.base.eth` · [chris@pollinatetrading.com](mailto:chris@pollinatetrading.com)
